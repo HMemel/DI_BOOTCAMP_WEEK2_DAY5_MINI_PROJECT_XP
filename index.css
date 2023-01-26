@@ -1,0 +1,26 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    background-image: url("../imgs/fond.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+    background-color: black;
+}
+
+.game-title {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-launch-game {
+    background-color: orangered;
+    color: white;
+    height: 50px;
+    border: none;
+    width: 200px;
+    font-weight: bold;
+}
